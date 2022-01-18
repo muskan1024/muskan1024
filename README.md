@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @muskan1024
-- 👀 I’m interested in programming and coding. New Technology
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me shaikhmuskan1024@gmail.com
 
 <!---
