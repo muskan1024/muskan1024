@@ -70,7 +70,7 @@
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-trainwithshubham.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.muskan1024.com)
+[![Website](https://img.shields.io/badge/Website-muskan1024.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.muskan1024.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskanshaikh1024/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muskan_.10/)
 [![Email](https://img.shields.io/badge/Email-shaikhmuskan1024@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhmuskan1024@gmail.com)
