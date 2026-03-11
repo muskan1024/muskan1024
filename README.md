@@ -49,6 +49,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=muskan1024&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan1024&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
@@ -73,7 +74,7 @@
 <img src="https://img.shields.io/badge/Website-Visit-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/muskanshaikh1024/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -86,7 +87,6 @@
 </a>
 
 </p>
----
 
 <p align="center">
 ⚡ “Learning DevOps by building and breaking real systems.”
