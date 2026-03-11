@@ -47,14 +47,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muskan1024&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan1024&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muskan1024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan1024&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</div>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muskan1024&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskan1024&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+</div>
 
 ---
 
@@ -68,41 +68,20 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-trainwithshubham.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.muskan1024.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskanshaikh1024/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muskan_.10/)
+[![Email](https://img.shields.io/badge/Email-shaikhmuskan1024@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhmuskan1024@gmail.com)
 
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/Website-Visit-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+</div>
 
-<a href="https://www.linkedin.com/in/muskanshaikh1024/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div align="center">
+  
+### ⚡ “Learning DevOps by building and breaking real systems.” 
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=LondheShubham153&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/LondheShubham153?label=Follow&style=social)](https://github.com/LondheShubham153)
 
-<a href="mailto:shaikhmuskan1024@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-⚡ “Learning DevOps by building and breaking real systems.”
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=muskan1024&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/muskan1024">
-<img src="https://img.shields.io/github/followers/muskan1024?label=Follow&style=for-the-badge"/>
-
-</a>
-
-</p>
+</div>
