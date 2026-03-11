@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring DevOps Engineer | MCA (AI & ML)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Cloud+%7C+DevOps+%7C+Linux+Enthusiast;Learning+Infrastructure+%26+Automation;Building+Projects+and+Exploring+Cloud+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Cloud+%7C+DevOps+%7C+Linux+Enthusiast;Learning+Infrastructure+%26+Automation; Building+Projects+and+Exploring+Cloud+Technologies" />
 </p>
 
 ---
