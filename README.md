@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muskan Shaikh</h1>
 <h3 align="center">Aspiring DevOps Engineer | MCA (AI & ML)</h3>
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Cloud+%7C+DevOps+%7C+Linux+Enthusiast;Learning+Infrastructure+%26+Automation;Building+Projects+%26+Exploring+Cloud+Technologies" />
 </p>
 
